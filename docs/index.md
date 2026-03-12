@@ -3,9 +3,10 @@
 layout: home
 
 hero:
-  name: "ms280"
+  name: "MS280"
   text: "A VitePress Site"
-  tagline: My great project tagline
+  tagline: "触控屏智能终端控制器"
+
   actions:
     - theme: brand
       text: Markdown Examples
