@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "MS280"
-  text: "A VitePress Site"
+  text: "南京奇崛电子科技有限公司"
   tagline: "触控屏智能终端控制器"
 
   actions:
